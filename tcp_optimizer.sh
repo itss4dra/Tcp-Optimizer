@@ -1,3 +1,4 @@
+apt-get update -y && apt-get upgrade -y && apt update && apt upgrade
 echo "==============================="
 echo " TCP Optimizer"
 echo "https://github.com/itss4dra"
